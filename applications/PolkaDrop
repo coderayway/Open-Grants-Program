@@ -4,9 +4,9 @@
 
 > This page is also available in [Chinese (中文)](./application-template-cn.md).
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BTC or Ethereum (DAI) payment address. We don't accept payments for the program in other currencies at this stage. (e.g. 123mp123...)
+* **Project Name:** PolkaDrop
+* **Team Name:** ARayADay
+* **Payment Address:** 0x6A4DBf88B573D5753DC587DfCf9aD5607c8b3a69
 
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
@@ -15,13 +15,18 @@ If this application in response to an RFP then please indicate this on the first
 
 ### Overview
 
-Please provide the following:
-  * A brief description of the project.
-  * An indication of how you will integrate this project into Substrate / Polkadot / Kusama.
-  * An indication of why your team is interested in creating this project.
+We want to deliver a platform to take on the JustEat and UberEat giants using the blockchain ledger to perform transaction at scale without lag. Business are at the mercy 
+of these giants paying extortionate operating fees only to line the pockets of giant corps.   
+
+We want to deliver a solution for both clients and eaters that offer a cheaper alenative. With the blockchain always on customers both eaters and clients wont have issues with server outages and costs of operating will be at a marginal cost
+Pollkodot/Substrate will be used as the blockchain framework to perform the transactions of the eaters purchase from the restaurant.  
+
+
 
 ### Project Details 
-We expect the teams to already have a solid idea about the project's expected final state.
+
+IPFS storage will be explored for client branding, which will translate to clients paying for storage of their assets. assets being images and other files.
+
 
 Therefore, we ask the teams to submit (where relevant):
 * Mockups/designs of any UI components
@@ -32,16 +37,18 @@ Therefore, we ask the teams to submit (where relevant):
 
 ### Ecosystem Fit 
 Are there any other projects similar to yours? If so, how is your project different?
+JustEat, UberEat are non blockchain application which are the very businesses we intend to take on.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
-* Name of team leader
-* Names of team members	
+* Obaydur (Akhtar) Rahman Miah
+* Kamruz Zamman
+* Matt Gascoyne
 
 ### Contact
-* **Contact Name:** Full name of the contact person (e.g. John Brown)
-* **Contact Email:** Contact email (e.g. john@duo.com)
+* **Contact Name:** Akhtar Miah
+* **Contact Email:** akhtarmiah@gmail.com
 * Website
 
 ### Legal Structure 
@@ -50,6 +57,9 @@ Are there any other projects similar to yours? If so, how is your project differ
 
 ### Team's experience
 Please describe the team's relevant experience.  If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.  
+Akhtar Miah - Microsoft SQL Data Engineer
+  8 years Data Warehouse design & develop experience
+
 
 ### Team Code Repos
 * https://github.com/<your_repo_1>
